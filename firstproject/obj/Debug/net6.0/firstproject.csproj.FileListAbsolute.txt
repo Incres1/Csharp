@@ -1,0 +1,15 @@
+/Users/morten/Documents/C3/Csharp/firstproject/bin/Debug/net6.0/firstproject
+/Users/morten/Documents/C3/Csharp/firstproject/bin/Debug/net6.0/firstproject.deps.json
+/Users/morten/Documents/C3/Csharp/firstproject/bin/Debug/net6.0/firstproject.runtimeconfig.json
+/Users/morten/Documents/C3/Csharp/firstproject/bin/Debug/net6.0/firstproject.dll
+/Users/morten/Documents/C3/Csharp/firstproject/bin/Debug/net6.0/firstproject.pdb
+/Users/morten/Documents/C3/Csharp/firstproject/obj/Debug/net6.0/firstproject.csproj.AssemblyReference.cache
+/Users/morten/Documents/C3/Csharp/firstproject/obj/Debug/net6.0/firstproject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/morten/Documents/C3/Csharp/firstproject/obj/Debug/net6.0/firstproject.AssemblyInfoInputs.cache
+/Users/morten/Documents/C3/Csharp/firstproject/obj/Debug/net6.0/firstproject.AssemblyInfo.cs
+/Users/morten/Documents/C3/Csharp/firstproject/obj/Debug/net6.0/firstproject.csproj.CoreCompileInputs.cache
+/Users/morten/Documents/C3/Csharp/firstproject/obj/Debug/net6.0/firstproject.dll
+/Users/morten/Documents/C3/Csharp/firstproject/obj/Debug/net6.0/refint/firstproject.dll
+/Users/morten/Documents/C3/Csharp/firstproject/obj/Debug/net6.0/firstproject.pdb
+/Users/morten/Documents/C3/Csharp/firstproject/obj/Debug/net6.0/firstproject.genruntimeconfig.cache
+/Users/morten/Documents/C3/Csharp/firstproject/obj/Debug/net6.0/ref/firstproject.dll
